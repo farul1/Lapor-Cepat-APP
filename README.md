@@ -29,16 +29,16 @@ LaporCepat adalah aplikasi web modern yang menjembatani komunikasi antara masyar
 ## 🖼️ Tampilan Aplikasi
 
 ### 🏠 Halaman Utama
-![Gambar Halaman Utama](images/halaman-utama.png)
+![Gambar Halaman Utama](public/images/halaman-utama.png)
 
 ### 👤 Dashboard Masyarakat
-![Gambar Dashboard Masyarakat](images/dashboard-masyarakat.png)
+![Gambar Dashboard Masyarakat](public/images/dashboard-masyarakat.png)
 
 ### 🛠️ Dashboard Admin
-![Gambar Dashboard Admin](images/dashboard-admin.png)
+![Gambar Dashboard Admin](public/images/dashboard-admin.png)
 
 ### 📄 Detail Laporan
-![Gambar Detail Laporan](images/detail-laporan.png)
+![Gambar Detail Laporan](public/images/detail-laporan.png)
 
 ---
 
@@ -46,11 +46,11 @@ LaporCepat adalah aplikasi web modern yang menjembatani komunikasi antara masyar
 
 ### 1. Use Case Diagram
 Menunjukkan interaksi pengguna (Masyarakat dan Admin) dengan sistem.
-![Use Case Diagram](images/usecase-diagram.png)
+![Use Case Diagram](public/images/usecase-diagram.png)
 
 ### 2. Class Diagram
 Merepresentasikan model dan relasi dalam aplikasi.
-![Class Diagram](images/class-diagram.png)
+![Class Diagram](public/images/class-diagram.png)
 
 ---
 
