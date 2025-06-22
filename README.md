@@ -1,6 +1,3 @@
-Berikut adalah struktur file `README.md` untuk proyek **LaporCepat**, lengkap dengan placeholder gambar yang bisa kamu isi nanti:
-
-````markdown
 # 🗣️ LaporCepat - Layanan Pengaduan Masyarakat Online
 
 **Suarakan keluhan Anda, dapatkan tanggapan cepat dan transparan.**
@@ -138,21 +135,3 @@ Buka browser dan akses aplikasi di [http://127.0.0.1:8000](http://127.0.0.1:8000
 
 ---
 
-## 🙌 Kontribusi
-
-Pull request sangat diterima! Untuk perubahan besar, silakan buka issue terlebih dahulu.
-
----
-
-## 📄 Lisensi
-
-Proyek ini berada di bawah lisensi [MIT](LICENSE).
-
-```
-
-### Catatan
-- Gambar-gambar seperti `images/usecase-diagram.png`, `images/class-diagram.png`, dll, bisa kamu buat lalu simpan di folder `/public/images/` atau tempat lain yang sesuai.
-- Jangan lupa update link GitHub jika ingin diunggah ke GitHub publik.
-
-Kalau kamu ingin saya bantu membuat diagramnya juga (dalam bentuk gambar), tinggal bilang saja ya.
-```
