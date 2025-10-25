@@ -1,7 +1,7 @@
     <x-app-layout>
         <x-slot name="header">
-            <h2 class="font-semibold text-xl text-gray-800 dark:text-gray-100 leading-tight">
-                <span class="text-gray-900 dark:text-gray-100">{{ __('Tentang LaporCepat') }}</span>
+            <h2 class="font-semibold text-xl text-gray-800 leading-tight">
+                {{ __('Tentang LaporCepat') }}
             </h2>
         </x-slot>
 
